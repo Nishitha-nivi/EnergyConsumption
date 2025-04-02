@@ -82,17 +82,12 @@ In this project, we:
 ## **How to Run This Project**
 1️⃣ Clone the repository:
 ```bash
- git clone https://github.com/your-username/energy-analysis.git
+ git clone https://github.com/Nishitha-nivi/EnergyConsumption-analysis.git
 ```
 2️⃣ Open **Power BI Desktop** and load `energy_analysis.pbix`.
 3️⃣ Explore **interactive dashboards** and insights.
 
 ---
 
-## **🔗 Project Links**
-- 📊 **Dashboard Preview:** [View Dashboard](your-dashboard-link)
-- 📑 **Dataset Source:** [Download Data](your-dataset-link)
-
-🚀 **Ready to optimize energy consumption with data-driven insights?** Let’s get started!
 
 
